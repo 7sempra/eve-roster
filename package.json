@@ -20,7 +20,8 @@
     "lint": "esprint check --workers=4",
     "presubmit": "prettier --write --list-different . && yarn lint && jest",
     "ci-lint": "esprint check --workers=2",
-    "ci-pretty-check": "prettier --check ."
+    "ci-pretty-check": "prettier --check .",
+    "update-browserslist-db": "yarn dlx update-browserslist-db"
   },
   "type": "module",
   "dependencies": {
