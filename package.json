@@ -79,7 +79,7 @@
     "@types/mini-css-extract-plugin": "^2.5.1",
     "@types/node": "^20.17.12",
     "@types/node-schedule": "^2.1.7",
-    "@types/pg": "^8.11.10",
+    "@types/pg": "^8.11.11",
     "@types/pg-pool": "^2.0.6",
     "@types/progress-stream": "^2.0.5",
     "@types/pug": "^2.0.10",
