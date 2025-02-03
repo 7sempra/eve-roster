@@ -121,7 +121,7 @@
     "sharp": "^0.33.5",
     "stream-browserify": "^3.0.0",
     "svgo": "^3.3.2",
-    "swagger-ui": "^5.18.2",
+    "swagger-ui": "^5.18.3",
     "ts-jest": "^29.2.5",
     "ts-jest-resolver": "^2.0.1",
     "ts-loader": "^9.5.2",
